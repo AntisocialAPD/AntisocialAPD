@@ -6,7 +6,7 @@
 # About Me
 I'm a Mining Engineer on the way to becoming a Software Engineer.
 
-- 👀 I’m interested in  Web Development, Programming, Graphics Design and maybe (Just maybe) Digital Marketing.
+- 👀 I’m interested in  Web Development, Programming, Graphics Design and maybe (just maybe) Digital Marketing.
 
 - 🌱 I’m currently learning  Front End Web Development.
 
